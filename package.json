@@ -1,0 +1,23 @@
+{
+    "name": "request",
+    "version": "0.0.1",
+    "description": "request + request-retry",
+    "main": "index.js",
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+	"type": "git",
+	"url": "git+https://github.com/mistakia/request.git"
+    },
+    "author": "t3rr0r",
+    "license": "MIT",
+    "bugs": {
+	"url": "https://github.com/mistakia/request/issues"
+    },
+    "homepage": "https://github.com/mistakia/request#readme",
+    "dependencies": {
+	"deepmerge": "^0.2.10",
+	"request-retry": "^0.1.1"
+    }
+}
